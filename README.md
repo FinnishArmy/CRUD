@@ -38,13 +38,13 @@ To get a local copy up and running, follow these simple example steps.
 
 ## Installation
 * Python 3.7 or later
-+ You must use this as the runtime for the CRUD module and test scripts.
+   + You must use this as the runtime for the CRUD module and test scripts.
 * PyMongo
-+ Python Driver for MongoDB to execute CRUD operations on the database.
+   + Python Driver for MongoDB to execute CRUD operations on the database.
 * Git
-+ To close the repo from Github.
+   + To close the repo from Github.
 * Jupyter Notebook
-+ This is to run the test script(s). However you may use your own IDE.
+   + This is to run the test script(s). However you may use your own IDE.
 
 ## Usage
 Follow these code examples to help run the scripts.
