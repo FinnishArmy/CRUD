@@ -1,6 +1,10 @@
 <h1 align="center"> CRUD in Python </h1>
 <p align="center"> Developing CRUD in Python and MongoDB </p>
 
+<img width="1354" height="485" alt="image" src="https://github.com/user-attachments/assets/1d6d019f-e9e6-4bb5-ac44-0e257610d0f4" />
+
+
+
 ## Table of Contents
 ---
 - [About the Project](#about-the-project)
